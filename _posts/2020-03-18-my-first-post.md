@@ -1,23 +1,15 @@
 ---
-title: "Tutorial I: my first post"
+title: "A New Start"
 date: 2020-03-18
 layout: post
 ---
 
-This is **my very first post**!! I can write
+# A brand new day
 
-* unnumbered
-* fancy
-* lists
+Well, it's been an interesting past which hasn't been documented on here, but that is soon to change.  
+I'll be starting a Bachelor of Science degree of Computer Science at De Montfort University. I'm also moving out! It's going to be both amazing and terrifying at the same time, but it will also give me a bit of space to do what I want to do.
+  
+If you're interested in what modules I'll be doing, you can view them on the Computer Science course page at [De Montfort University's Website](https://www.dmu.ac.uk/study/courses/undergraduate-courses/computer-science-bsc-degree/computer-science-bsc-degree.aspx). To make a long story short, what I'll be doing isn't vastly different from what I've been doing in my spare time at home, and briefly during my A-Levels as well. Here's a screen-shot:  
+![What modules of Computer Science I'm doing](assets/img/modules.png)
 
-But also
-
-1. numbered
-1. ones
-1. easily
-
-Images
-
-![a gif!](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-And so on...
+Time to get stuck in... 
