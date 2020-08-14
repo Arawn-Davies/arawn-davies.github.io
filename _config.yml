@@ -5,6 +5,9 @@ author: "Arawn Davies"
 
 theme: minima
 
+plugins:
+  - jemoji
+
 # Minima social links
 twitter_username: squidwhere
 github_username: Arawn-Davies
