@@ -1,10 +1,10 @@
 ---
 title: "A New Start"
-date: 2020-03-18
+date: 2020-08-14
 layout: post
 ---
 
-# A brand new day
+# A new start
 
 Well, it's been an interesting past which hasn't been documented on here, but that is soon to change.  
 I'll be starting a Bachelor of Science degree of Computer Science at De Montfort University. I'm also moving out! It's going to be both amazing and terrifying at the same time, but it will also give me a bit of space to do what I want to do.
