@@ -1,14 +1,13 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Squidware's Software
+description: Software Developer under the sea
+author: "Arawn Davies"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: squidwhere
+github_username: Arawn-Davies
 rss: rss
 
 # Minima: show excerpts in the frontpage
