@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Welcome to my site!
+title: Home
 list_title: 
 ---
 
