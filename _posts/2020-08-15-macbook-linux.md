@@ -23,3 +23,13 @@ and then paste the following into that file, using your favorite text editor (I'
 options hid_apple swap_opt_cmd=1
 ```  
 and that should solve the issue! I can't confirm whether this works with all distributions, but as it's a modprobe.d file, I can imagine it working well across numerous different distributions. If you have any issues regarding this, Gautam Iyer does also have a few other solutions on his blog post, so I recommend you look on there for more.
+
+Edit: I forgot to mention the Eject key, which is useless on my machine 'cause I broke the DVD-drive!
+In your home folder, create a new file called .Xmodmap using 
+```
+touch .Xmodmap
+```
+, and then paste the following into that file, reboot your machine and it will work just as a Delete key, which Apple failed to put on their machines >:-)  
+```
+keycode 169 = Delete
+```
