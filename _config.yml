@@ -6,6 +6,7 @@ author: "Arawn Davies"
 theme: minima
 
 plugins:
+  - jekyll-feed
   - jemoji
 
 # Minima social links
