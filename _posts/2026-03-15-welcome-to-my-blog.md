@@ -5,13 +5,13 @@ date: 2026-03-15 12:00:00 +0000
 categories: general
 ---
 
-Hello and welcome! I'm **Arawn**, a Cyber Security MSc student at De Montfort University in Leicester, UK, and this is my personal blog.
+Hello and welcome! I'm **Arawn**, a software developer and hardware engineer. I hold a Cyber Security MSc from De Montfort University in Leicester, UK, and this is my personal blog :)  
 
 ## What You'll Find Here
 
 I plan to write about topics I'm passionate about, including:
 
-- **Cyber Security** — my current area of study, including research, tools, and techniques
+- **Cyber Security** — my day job :) including research, tools, and techniques
 - **Systems Programming** — C/C++, x86 assembly, operating system development, and low-level hacking
 - **Retro Computing & Gaming** — classic machines, platforms, and game ports (including my ongoing Doom PS2 port!)
 - **Open Source Projects** — updates and write-ups on [Medli OS](https://github.com/Arawn-Davies) and other work
@@ -19,7 +19,7 @@ I plan to write about topics I'm passionate about, including:
 
 ## A Bit About Me
 
-I hold a **First Class BSc (Hons) in Computer Science** and spent a year as a **Technical Specialist at Leicestershire County Council**, where I worked with a range of technologies including GIS mapping, Linux systems, virtualisation, and database administration.
+I hold a **MSc in Cyber Security** and **First Class BSc (Hons) in Computer Science** and spent a year as a **Technical Specialist at Leicestershire County Council**, where I worked with a range of technologies including GIS mapping, Linux systems, virtualisation, and database administration.
 
 I'm experienced with a wide range of languages and tools — Ruby on Rails, C#, C/C++, x86 Assembly, Java, PHP, JavaScript, .NET, MySQL, PostgreSQL, OpenAPI, OS Maps, QGIS, and Linux, to name a few.
 
