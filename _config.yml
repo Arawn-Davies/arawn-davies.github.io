@@ -1,14 +1,15 @@
 title: Arawn Davies
-email: ""
+author: 
+    name: Arawn Davies
+    email: arawn@arawn-davies.co.uk
 description: >-
-  Graduate of Cyber Security MSc and Computer Science BSc Hons at De Montfort University
-  and technical specialist. Writing about security, systems programming, retro computing,
-  and my open-source projects.
-baseurl: ""
+    The melting pot of software, hardware and experience
+baseurl: /
 url: "https://arawn-davies.github.io"
 github_username: Arawn-Davies
 
-theme: minima
+# Build settings
+remote-theme: minima
 
 minima:
   skin: dark
@@ -24,6 +25,17 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+# Minima: custom header links
+header_pages:
+  - index.md
+  - _pages/about.md
+  - _pages/hiring.md
+  - _pages/blog.md
+  - projects/projects.md
+
+include:
+    - _pages
+
 # Exclude from processing
 exclude:
   - Gemfile
@@ -33,3 +45,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+rss: rss
