@@ -16,6 +16,7 @@ minima:
     - { platform: github, user_url: "https://github.com/Arawn-Davies" }
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
