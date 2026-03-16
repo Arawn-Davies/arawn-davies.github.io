@@ -1,29 +1,72 @@
-title: Arawn Davies
+title: Arawn Davies Portal
 author: 
     name: Arawn Davies
     email: arawn@arawn-davies.co.uk
-description: >-
+description:  
     The melting pot of software, hardware and experience
-baseurl: /
-url: "https://arawn-davies.github.io"
-github_username: Arawn-Davies
+
+
+base_url: /
+repository: Arawn-Davies/arawn-davies.github.io
+
+
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: squidwhere
+    github:  arawn-davies
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: arawn-davies
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 # Build settings
 remote-theme: minima
 
-minima:
-  skin: dark
-  social_links:
-    - { platform: github, user_url: "https://github.com/Arawn-Davies" }
-
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+ - jekyll-remote-theme
+ - jekyll-feed
+ - jekyll-seo-tag
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
 
 # Minima: custom header links
 header_pages:
@@ -36,14 +79,13 @@ header_pages:
 include:
     - _pages
 
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - _upstr
 
-rss: rss
+future: true
