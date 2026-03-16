@@ -12,7 +12,7 @@ I'm half way through my degree, and it's been an awful lot of hard work but it's
 I had my first job in September '21 where I worked as a customer support specialist. 
 Good pay, which made up for the frustrating calls from school secretaries complaining they had forgotten their passwords.
 
-My course grades hacev also been a lot better than last year. November 2020 I slipped and broke my wrist, resulting in me wearing a full length arm cast to keep it stable for 2 months until I could take it off on New Year's Day. Pretty bad considering I'm doing a computer science degree and couldn't type longer than 5 minutes at a time. (╯°□°)╯︵ ┻━┻
+My course grades have also been a lot better than last year. November 2020 I slipped and broke my wrist, resulting in me wearing a full length arm cast to keep it stable for 2 months until I could take it off on New Year's Day. Pretty bad considering I'm doing a computer science degree and couldn't type longer than 5 minutes at a time. (╯°□°)╯︵ ┻━┻
 
 My modules I've done this year have been:
 
