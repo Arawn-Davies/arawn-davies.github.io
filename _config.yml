@@ -1,91 +1,41 @@
-title: Arawn Davies Portal
-author: 
-    name: Arawn Davies
-    email: arawn@arawn-davies.co.uk
-description:  
-    The melting pot of software, hardware and experience
+title: Arawn Davies
+description: The melting pot of software, hardware and experience
+author: Arawn Davies
+url: https://arawn-davies.co.uk
 
-
-base_url: /
-repository: Arawn-Davies/arawn-davies.github.io
-
-
-rss: rss
-
-# Minima: show excerpts in the frontpage
-show_excerpts: true
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    twitter: squidwhere
-    github:  arawn-davies
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    linkedin: arawn-davies
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-remote-theme: minima
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
- - jekyll-remote-theme
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
 
+# just-the-docs settings
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
 
-# Minima: custom header links
-header_pages:
-  - index.md
-  - _pages/about.md
-  - _pages/hiring.md
-  - _pages/blog.md
-  - projects/projects.md
+aux_links:
+  GitHub: https://github.com/Arawn-Davies
+aux_links_new_tab: true
 
-include:
-    - _pages
+footer_content: 'Arawn Davies &middot; <a href="mailto:arawn@arawn-davies.co.uk">arawn@arawn-davies.co.uk</a>'
 
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - _upstr
+# Keep legacy/section pages out of the main nav to avoid clutter
+defaults:
+  - scope: { path: "projects/software" }
+    values: { nav_exclude: true }
+  - scope: { path: "projects/hardware" }
+    values: { nav_exclude: true }
+  - scope: { path: "_pages" }
+    values: { nav_exclude: true }
+  - scope: { path: "secret-santa" }
+    values: { nav_exclude: true }
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post", parent: "Blog" }
 
-future: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

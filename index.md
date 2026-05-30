@@ -1,28 +1,35 @@
 ---
+title: Home
 layout: home
+nav_order: 1
+permalink: /
 ---
 
-Hello and welcome! I'm **Arawn**, A.K.A Ari :)  
-I'm a software developer and hardware engineer who holds a Cyber Security MSc and Computer Science BSc Hons, and this is my personal blog :)  
-  
-## What You'll Find Here
+# Arawn Davies
+{: .fs-9 }
 
-I plan to write about topics I'm passionate about, including:
+Software developer & hardware engineer — Cyber Security MSc, Computer Science BSc (Hons).
+{: .fs-6 .fw-300 }
 
-- **Cyber Security** — (including research, tools, and techniques) I'm currently doing development and integrating S/DAST pipelines for a software development company 
-- **Systems Programming** — C/C++, x86 assembly, operating system development, and low-level hacking
-- **Retro Computing & Gaming** — classic machines, platforms, and game ports (including my ongoing Doom PS2 port!)
-- **Open Source Projects** — updates and write-ups on [Medli OS](https://github.com/Arawn-Davies) and other work
-- **Guitar & Music** — the occasional post about playing electric, acoustic and bass guitar, and use of DAW tools across platforms
+[View Projects](/projects){: .btn .btn-primary .mr-2 } [Read the Blog](/blog){: .btn }
 
-## A Bit About Me
+---
 
-I hold a **MSc in Cyber Security** and **First Class BSc (Hons) in Computer Science** and spent a year as a **Technical Specialist at Leicestershire County Council**, where I worked with a range of technologies including GIS mapping, Linux systems, virtualisation, and database administration.
+## What you'll find here
 
-I'm experienced with a wide range of languages and tools — Ruby on Rails, C#, C/C++, x86 Assembly, Java, PHP, JavaScript, .NET, MySQL, PostgreSQL, OpenAPI, OS Maps, QGIS, and Linux, to name a few.
+- **Cyber Security** — research, tooling and S/DAST pipeline work
+- **Systems Programming** — C/C++, x86 assembly and OS development
+- **Retro Computing & Gaming** — classic machines, console homebrew and ports
+- **Open Source** — my operating systems and other projects
+- **Guitar & Music** — the occasional post on playing and DAW tooling
 
-## Let's Collaborate!
+## Prized projects
 
-I'm always looking for people to collaborate on interesting projects. If you'd like to work together — whether on Medli OS, the PS2 Doom port, or something entirely new — don't hesitate to get in touch via [GitHub](https://github.com/Arawn-Davies).
+- [**XiDOS**](/xidos) — my from-scratch operating system project
+- [**microCMDB**](/microcmdb) — lightweight configuration management database
+- [**Makar**](/makar) — creative hardware/software tooling project
+- [**Medli3**](/medli3) — third generation of the Medli managed operating system
 
-Thanks for stopping by — stay tuned for more posts! 🎸
+I hold an **MSc in Cyber Security** and a **First Class BSc (Hons) in Computer Science**, and spent a placement year as a **Technical Specialist at Leicestershire County Council**.
+
+Always happy to collaborate — reach me on [GitHub](https://github.com/Arawn-Davies).

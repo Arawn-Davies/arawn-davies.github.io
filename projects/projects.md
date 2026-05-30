@@ -1,21 +1,22 @@
 ---
-permalink: /projects
-layout: page
 title: Projects
+layout: page
+nav_order: 3
+has_children: true
+permalink: /projects
 ---
 
-Through the years, I have worked on many different types of Computer Science ideas and concepts.  
-Some of these, I have wanted to write up about them as a means to document more of the work I do in my professional and spare time.
-For this website, I have split each of these into two groups:
+# Projects
 
-#### [Hardware projects](/projects/hardware)
-This section consists of projects that involve retro and vintage computers, game console modding, hardware development including PCB
-design and digital communication.  
+A selection of the work I'm most proud of, plus my wider hardware and software experiments.
 
-#### [Software projects](/projects/software)
-This other section consists of projects that deal with ancient operating systems, game console homebrew, uncommon software architectures 
-and operating system design and implementation.  
+## Prized projects
+- [**XiDOS**](/xidos) — my from-scratch operating system
+- [**microCMDB**](/microcmdb) — lightweight configuration management database
+- [**Makar**](/makar) — creative hardware/software tooling
+- [**Medli3**](/medli3) — third generation managed operating system
 
-#### [Blend](/projects/blend)
-This final area is where those weird concepts go that bridge the gap between hardware and software, from programming arduinos that
-communicate via software to retro computers, and the weird idea of arduinos, raspberry pis, guitars and MIDI all joining in harmony or cacophony, take your pick
+## Other work
+- [Hardware projects](/projects/hardware) — retro & single-board computers, PCB design
+- [Software projects](/projects/software) — operating systems, homebrew, unusual architectures
+- [Secret Santa.js](/secret-santa/) — a small festive web app
