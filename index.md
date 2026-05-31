@@ -26,6 +26,7 @@ Software developer and hardware engineer.
 ## Selected projects
 
 - [**XiDOS**](https://arawn-davies.co.uk/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
+- [**microhash**](https://arawn-davies.co.uk/microhash) — lightweight, portable non-cryptographic 64-bit hash function
 - [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks
 - [**Makar**](https://arawn-davies.co.uk/makar) — bare-metal i686 hobby operating system written in C
 - [**Medli3**](https://arawn-davies.co.uk/medli3) — bare-metal C# operating system built on the NativeAOT-based Cosmos framework
