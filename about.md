@@ -51,5 +51,6 @@ security testing
 Systems programming, retro computing, homelab infrastructure, music and guitar.
 
 ---
-Explore my [projects](/projects), [blog](/blog) or work on
+Explore my [projects](/projects), [blog](/blog), videos on
+[YouTube](https://www.youtube.com/@arawndavies8525) or work on
 [GitHub](https://github.com/Arawn-Davies).
