@@ -1,7 +1,7 @@
 ---
 title: XiDOS
 parent: Projects
-nav_order: 1
+nav_order: 2
 external_url: https://arawn-davies.co.uk/xidos
 search_exclude: true
 sitemap: false
