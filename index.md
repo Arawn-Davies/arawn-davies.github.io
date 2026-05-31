@@ -25,9 +25,9 @@ Software developer & hardware engineer — Cyber Security MSc, Computer Science 
 
 ## Prized projects
 
-- [**XiDOS**](/xidos) — my from-scratch operating system project
+- [**XiDOS**](/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
 - [**microCMDB**](/microcmdb) — lightweight configuration management database
-- [**Makar**](/makar) — creative hardware/software tooling project
+- [**Makar**](/makar) — my from-scratch bare-metal i686 operating system
 - [**Medli3**](/medli3) — third generation of the Medli managed operating system
 
 I hold an **MSc in Cyber Security** and a **First Class BSc (Hons) in Computer Science**, and spent a placement year as a **Technical Specialist at Leicestershire County Council**.

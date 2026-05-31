@@ -11,9 +11,9 @@ permalink: /projects
 A selection of the work I'm most proud of, plus my wider hardware and software experiments.
 
 ## Prized projects
-- [**XiDOS**](/xidos) — my from-scratch operating system
+- [**XiDOS**](/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
 - [**microCMDB**](/microcmdb) — lightweight configuration management database
-- [**Makar**](/makar) — creative hardware/software tooling
+- [**Makar**](/makar) — my from-scratch bare-metal i686 operating system
 - [**Medli3**](/medli3) — third generation managed operating system
 
 ## Other work

@@ -7,14 +7,16 @@ permalink: /xidos
 
 # XiDOS
 
-XiDOS is my from-scratch operating system project — a hands-on exploration of low-level
-systems programming, bootloaders, memory management and a custom kernel running on bare metal.
+XiDOS is a POSIX compatibility layer for MS-DOS and FreeDOS. Like Cygwin on Windows,
+it provides a runtime library and headers that map POSIX APIs onto the host operating
+system: chiefly the DOS `INT 21h` interface and the underlying BIOS.
 
-It grew out of my fascination with OS development across architectures (x86, m68k, MIPS, ARM)
-and serves as a playground for the systems-programming ideas I write about on the blog.
+The aim is to let Unix-style software compile and run on real or emulated DOS machines
+with minimal changes, including file operations, path translation, process spawning and
+a growing slice of the C library.
 
-**Status:** in active development.
+**Status:** early scaffolding.
 
-[Source on GitHub](https://github.com/Arawn-Davies)
+[Source on GitHub](https://github.com/Arawn-Davies/XiDOS)
 
 > Page coming together — more technical write-ups soon.
