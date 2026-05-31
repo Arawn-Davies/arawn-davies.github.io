@@ -5,24 +5,34 @@ nav_order: 2
 permalink: /about/
 ---
 
-# About Me
+# About
 
-Hi, I'm **Arawn Davies** — welcome to my corner of the internet! 👋
+I am Arawn Davies, a software developer and hardware engineer based in the UK. My
+interests include systems programming, cyber security, web development and retro
+computing.
 
-## Education 🎓
-- **Cyber Security MSc** — De Montfort University, Leicester, UK
-- **Computer Science BSc (Hons)** — 1st Class with Placement Year
+This site is a record of my software and hardware projects, including operating
+systems, developer tooling and experiments with vintage computers.
 
-## Experience ⌨️
-**Placement Technical Specialist** — Leicestershire County Council *(June 2022 – August 2023)*. Hands-on work in enterprise IT, GIS mapping tools and public-sector software systems.
+## Education
+- **MSc Cyber Security** — De Montfort University, Leicester
+- **BSc (Hons) Computer Science** — First Class
 
-## Technical Skills 🧑‍💻
-Ruby on Rails · C# / .NET (ASP.NET Framework & Core) · C / C++ · x86 Assembly · Java · PHP · JavaScript
+## Experience
+**Technical Specialist** — Leicestershire County Council *(June 2022 – August
+2023)*. Full-time work supporting enterprise IT systems, GIS mapping tools and
+public-sector software used in a local-authority environment.
 
-**Databases:** MySQL, PostgreSQL · **APIs:** OpenAPI · **GIS:** OS Maps, QGIS · **Systems:** Linux, virtualisation
+## Technical Skills
+**Languages and frameworks:** Ruby on Rails, C# / .NET, ASP.NET, C, C++, x86
+assembly, Java, PHP and JavaScript
 
-## Hobbies 🎵
-Music, electric/acoustic/bass guitar, retro & vintage computing and gaming.
+**Tools and platforms:** Linux, virtualisation, MySQL, PostgreSQL, OpenAPI, OS Maps
+and QGIS
+
+## Interests
+Music, guitar, retro computing and gaming.
 
 ---
-Explore my [blog](/blog) or my work on [GitHub](https://github.com/Arawn-Davies).
+Explore my [projects](/projects), [blog](/blog) or work on
+[GitHub](https://github.com/Arawn-Davies).
