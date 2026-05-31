@@ -12,7 +12,7 @@ permalink: /projects
 A list of my software, hardware and collaborative projects.
 
 ## Software
-- [**Bricks-OS**](https://github.com/Arawn-Davies/bricks-os) — microkernel-based distributed operating system for game consoles and PCs
+- [**Bricks-OS**](https://arawn-davies.co.uk/bricks-os) — microkernel-based distributed operating system for game consoles and PCs
 - [**XiDOS**](https://arawn-davies.co.uk/xidos) — experimental POSIX compatibility layer for MS-DOS and FreeDOS
 - [**microhash**](https://arawn-davies.co.uk/microhash) — lightweight, portable non-cryptographic 64-bit hash function for servers and constrained microcontrollers
 - [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks

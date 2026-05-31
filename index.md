@@ -25,7 +25,7 @@ Software developer and hardware engineer.
 
 ## Selected projects
 
-- [**Bricks-OS**](https://github.com/Arawn-Davies/bricks-os) — microkernel-based distributed operating system for game consoles and PCs
+- [**Bricks-OS**](https://arawn-davies.co.uk/bricks-os) — microkernel-based distributed operating system for game consoles and PCs
 - [**XiDOS**](https://arawn-davies.co.uk/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
 - [**microhash**](https://arawn-davies.co.uk/microhash) — lightweight, portable non-cryptographic 64-bit hash function
 - [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks
