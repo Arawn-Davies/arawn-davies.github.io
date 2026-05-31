@@ -3,11 +3,9 @@ description: The melting pot of software, hardware and experience
 author: Arawn Davies
 url: https://arawn-davies.co.uk
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
   - jekyll-feed
 
 include:

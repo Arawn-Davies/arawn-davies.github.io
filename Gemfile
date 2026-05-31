@@ -1,11 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "just-the-docs", "~> 0.10"
-gem "webrick", "~> 1.8"
+gem "jekyll", "~> 4.4.1"
+gem "just-the-docs", "0.12.0"
 
 group :jekyll_plugins do
-  gem "jekyll-remote-theme"
-  gem "jekyll-seo-tag"
   gem "jekyll-feed"
 end
