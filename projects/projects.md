@@ -17,18 +17,14 @@ A list of my software, hardware and collaborative projects.
 - [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks
 - [**Makar**](https://arawn-davies.co.uk/makar) — bare-metal i686 hobby operating system written in C, with an in-OS TinyCC compiler
 - [**Medli3**](https://arawn-davies.co.uk/medli3) — third-generation bare-metal C# operating system built on the NativeAOT-based Cosmos framework
-- [**Secret Santa.js**](/secret-santa/) — small festive web app
 - [**This website**](https://github.com/Arawn-Davies/arawn-davies.github.io) — GitHub Pages source for this site
 
-## Hardware I Build With
-Some third-party hardware projects I have built and used:
+I have written many other projects, although they are not as significant or as modernised as the projects highlighted above.
 
-- [**Z80-MBC2**](/projects/hardware/z80-mbc2) — Z80 and ATMega32 single-board computer
-- [**SC-126**](/projects/hardware/sc-126) — Z180 single-board computer
+Other source repositories: [AIC-Framework](https://github.com/Arawn-Davies/AIC-Framework), [AILMon](https://github.com/Arawn-Davies/AILMon), [anagramfinder](https://github.com/Arawn-Davies/anagramfinder), [Apollo-IL](https://github.com/Arawn-Davies/Apollo-IL), [Artemis-IL](https://github.com/Arawn-Davies/Artemis-IL), [bricks-os](https://github.com/Arawn-Davies/bricks-os), [C65](https://github.com/Arawn-Davies/C65), [Chocolate](https://github.com/Arawn-Davies/Chocolate), [Dewitcher-Original](https://github.com/Arawn-Davies/Dewitcher-Original), [doomgeneric-ps2](https://github.com/Arawn-Davies/doomgeneric-ps2), [dotfiles](https://github.com/Arawn-Davies/dotfiles), [ilbcvm](https://github.com/Arawn-Davies/ilbcvm), [kernelloader](https://github.com/Arawn-Davies/kernelloader), [Lilac-IDE](https://github.com/Arawn-Davies/Lilac-IDE), [Medli](https://github.com/Arawn-Davies/Medli), [Medli-Classic](https://github.com/Arawn-Davies/Medli-Classic), [obfus-cpp](https://github.com/Arawn-Davies/obfus-cpp), [pcsx2oom](https://github.com/Arawn-Davies/pcsx2oom), [ps2bootopia](https://github.com/Arawn-Davies/ps2bootopia), [ps2doom](https://github.com/Arawn-Davies/ps2doom), [PS2Doom-sources](https://github.com/Arawn-Davies/PS2Doom-sources), [ps2p](https://github.com/Arawn-Davies/ps2p), [quick-i686](https://github.com/Arawn-Davies/quick-i686), [romsort](https://github.com/Arawn-Davies/romsort), [SDFS](https://github.com/Arawn-Davies/SDFS), [secublog](https://github.com/Arawn-Davies/secublog), [Secret Santa.js](/secret-santa/), [sysprep](https://github.com/Arawn-Davies/sysprep), [TinyPasskey](https://github.com/Arawn-Davies/TinyPasskey), [vics](https://github.com/Arawn-Davies/vics).
 
 ## Contributions
-- [**Untitled Document 1 / UD1Sodas**](https://github.com/untitled-doc-1/ud1sodas) — university team project for an ASP.NET web store
-- [**Cosmos**](https://github.com/CosmosOS/Cosmos) — C# toolkit for building operating systems
+- [**Cosmos**](https://github.com/CosmosOS/Cosmos) — core-team member of the C# toolkit for building operating systems
 - [**Aura Operating System**](https://github.com/aura-systems/Aura-Operating-System) — C# operating system built with Cosmos
 
 More experimental work is available on my [GitHub profile](https://github.com/Arawn-Davies).
