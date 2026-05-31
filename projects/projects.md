@@ -2,7 +2,7 @@
 title: Projects
 layout: page
 nav_order: 3
-has_children: true
+has_children: false
 permalink: /projects
 ---
 
@@ -16,7 +16,7 @@ A list of my software, hardware and collaborative projects.
 - [**Makar**](https://github.com/Arawn-Davies/makar) — bare-metal i686 hobby operating system written in C, with an in-OS TinyCC compiler
 - [**Medli3**](https://github.com/Arawn-Davies/medli3) — third-generation bare-metal C# operating system built on the NativeAOT-based Cosmos framework
 - [**Secret Santa.js**](/secret-santa/) — small festive web app
-- [**This website**](https://github.com/Arawn-Davies/arawn-davies.github.io) — Jekyll source for this site
+- [**This website**](https://github.com/Arawn-Davies/arawn-davies.github.io) — GitHub Pages source for this site
 
 ## Hardware I Build With
 Some third-party hardware projects I have built and used:

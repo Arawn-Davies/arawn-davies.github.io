@@ -26,16 +26,8 @@ footer_content: 'Arawn Davies &middot; <a href="mailto:arawn@arawn-davies.co.uk"
 
 # Keep legacy/section pages out of the main nav to avoid clutter
 defaults:
-  - scope: { path: "projects/software" }
-    values: { nav_exclude: true }
-  - scope: { path: "projects/hardware" }
-    values: { nav_exclude: true }
   - scope: { path: "_pages" }
     values: { nav_exclude: true }
-  - scope: { path: "secret-santa" }
-    values: { nav_exclude: true }
-  - scope: { path: "", type: "posts" }
-    values: { layout: "post", parent: "Blog" }
 
 exclude:
   - Gemfile
