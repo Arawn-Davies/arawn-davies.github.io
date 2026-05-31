@@ -18,7 +18,9 @@ A list of my software, hardware and collaborative projects.
 - [**Secret Santa.js**](/secret-santa/) — small festive web app
 - [**This website**](https://github.com/Arawn-Davies/arawn-davies.github.io) — Jekyll source for this site
 
-## Hardware
+## Hardware I Build With
+Some third-party hardware projects I have built and used:
+
 - [**Z80-MBC2**](/projects/hardware/z80-mbc2) — Z80 and ATMega32 single-board computer
 - [**SC-126**](/projects/hardware/sc-126) — Z180 single-board computer
 

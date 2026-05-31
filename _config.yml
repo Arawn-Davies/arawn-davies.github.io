@@ -10,6 +10,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
+include:
+  - _pages
+
 # just-the-docs settings
 color_scheme: dark
 search_enabled: true
