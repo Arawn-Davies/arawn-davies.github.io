@@ -11,10 +11,10 @@ permalink: /projects
 A list of my software, hardware and collaborative projects.
 
 ## Software
-- [**XiDOS**](https://github.com/Arawn-Davies/xidos) — experimental POSIX compatibility layer for MS-DOS and FreeDOS
-- [**microCMDB**](https://github.com/Arawn-Davies/microcmdb) — CMDB-style configuration manager for home networks
-- [**Makar**](https://github.com/Arawn-Davies/makar) — bare-metal i686 hobby operating system written in C, with an in-OS TinyCC compiler
-- [**Medli3**](https://github.com/Arawn-Davies/medli3) — third-generation bare-metal C# operating system built on the NativeAOT-based Cosmos framework
+- [**XiDOS**](https://arawn-davies.co.uk/xidos) — experimental POSIX compatibility layer for MS-DOS and FreeDOS
+- [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks
+- [**Makar**](https://arawn-davies.co.uk/makar) — bare-metal i686 hobby operating system written in C, with an in-OS TinyCC compiler
+- [**Medli3**](https://arawn-davies.co.uk/medli3) — third-generation bare-metal C# operating system built on the NativeAOT-based Cosmos framework
 - [**Secret Santa.js**](/secret-santa/) — small festive web app
 - [**This website**](https://github.com/Arawn-Davies/arawn-davies.github.io) — GitHub Pages source for this site
 

@@ -25,10 +25,10 @@ Software developer and hardware engineer.
 
 ## Selected projects
 
-- [**XiDOS**](https://github.com/Arawn-Davies/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
-- [**microCMDB**](https://github.com/Arawn-Davies/microcmdb) — CMDB-style configuration manager for home networks
-- [**Makar**](https://github.com/Arawn-Davies/makar) — bare-metal i686 hobby operating system written in C
-- [**Medli3**](https://github.com/Arawn-Davies/medli3) — bare-metal C# operating system built on the NativeAOT-based Cosmos framework
+- [**XiDOS**](https://arawn-davies.co.uk/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
+- [**microCMDB**](https://arawn-davies.co.uk/microcmdb) — CMDB-style configuration manager for home networks
+- [**Makar**](https://arawn-davies.co.uk/makar) — bare-metal i686 hobby operating system written in C
+- [**Medli3**](https://arawn-davies.co.uk/medli3) — bare-metal C# operating system built on the NativeAOT-based Cosmos framework
 
 I am a software developer and hardware engineer with an MSc in Cyber Security and
 a First Class BSc (Hons) in Computer Science.
