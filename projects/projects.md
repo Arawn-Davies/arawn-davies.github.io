@@ -2,7 +2,8 @@
 title: Projects
 layout: page
 nav_order: 3
-has_children: false
+has_children: true
+has_toc: false
 permalink: /projects
 ---
 
