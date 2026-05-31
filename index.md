@@ -8,7 +8,7 @@ permalink: /
 # Arawn Davies
 {: .fs-9 }
 
-Software developer & hardware engineer — Cyber Security MSc, Computer Science BSc (Hons).
+Software developer and hardware engineer.
 {: .fs-6 .fw-300 }
 
 [View Projects](/projects){: .btn .btn-primary .mr-2 } [Read the Blog](/blog){: .btn }
@@ -23,13 +23,14 @@ Software developer & hardware engineer — Cyber Security MSc, Computer Science 
 - **Open Source** — my operating systems and other projects
 - **Guitar & Music** — the occasional post on playing and DAW tooling
 
-## Prized projects
+## Selected projects
 
 - [**XiDOS**](/xidos) — POSIX compatibility layer for MS-DOS and FreeDOS
 - [**microCMDB**](/microcmdb) — lightweight configuration management database
-- [**Makar**](/makar) — my from-scratch bare-metal i686 operating system
+- [**Makar**](/makar) — a from-scratch bare-metal i686 hobby operating system
 - [**Medli3**](/medli3) — third generation of the Medli managed operating system
 
-I hold an **MSc in Cyber Security** and a **First Class BSc (Hons) in Computer Science**, and spent a placement year as a **Technical Specialist at Leicestershire County Council**.
+I studied Computer Science and Cyber Security, and spent a placement year as a Technical
+Specialist at Leicestershire County Council.
 
 Always happy to collaborate — reach me on [GitHub](https://github.com/Arawn-Davies).

@@ -7,7 +7,7 @@ permalink: /makar
 
 # Makar
 
-Makar is my from-scratch bare-metal i686 hobby operating system, written in C and
+Makar is a from-scratch bare-metal i686 hobby operating system, written in C and
 booted via GRUB Multiboot 2. It includes its own kernel, userspace, libc fragment,
 ELF loader, shell, multiple TTYs and an in-OS TinyCC compiler.
 
